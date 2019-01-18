@@ -17,6 +17,25 @@ urlwatch is intended to help you watch changes in webpages and get notified
 changes. The change notification will include the URL that has changed and
 a unified diff of what has changed.
 
+Table of Contents
+-----------------
+
+- [DEPENDENCIES](#dependencies)
+- [QUICK START](#quick-start)
+- [TIPS AND TRICKS](#tips-and-tricks)
+- [PUSHOVER](#pushover)
+- [PUSHBULLET](#pushbullet)
+- [TELEGRAM](#telegram)
+- [SLACK](#slack)
+- [BROWSER](#browser)
+- [E-MAIL VIA GMAIL SMTP](#e-mail-via-gmail-smtp)
+- [TESTING FILTERS](#testing-filters)
+- [SENDING COOKIES](#sending-cookies)
+- [WATCHING GITHUB RELEASES](#watching-github-releases)
+- [USING XPATH AND CSS FILTERS WITH XML](#using-xpath-and-css-filters-with-xml)
+- [MIGRATION FROM URLWATCH 1.x](#migration-from-urlwatch-1x)
+- [CONTACT](#contact)
+
 
 DEPENDENCIES
 ------------
